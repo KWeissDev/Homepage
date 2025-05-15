@@ -5,9 +5,15 @@ Informatik Master-Student an der Technischen Universität Chemnitz
 09131 Chemnitz
 kevin-rinaldo.weiss@web.de
 
-Als vielseitiger Akademiker und erfahrene Führungskraft vereine ich fundierte Kenntnisse derRechtswissenschaften und des Managements mit einem laufenden Masterstudium in Informatik. Durchmeine zuvor abgeschlossene Berufsausbildung als Kaufmann im Einzelhandel und die anschließendeKarriere als stellv. Store-Manager verfüge ich außerdem über Führungserfahrung und die Fähigkeit,versiert in schnelllebigen Umgebungen zu arbeiten.Ich bringe eine einzigartige Mischung aus analytischem Denken, rechtlicher Expertise und technischemVerständnis mit. Meine Fähigkeit, komplexe Probleme zu lösen, strategische Entscheidungen zu treffenund effektiv mit einem breiten Spektrum an Menschen zusammenzuarbeiten, ist von unschätzbaremWert für jedes Team.Diese Kombination von Fähigkeiten ermöglicht es mir, analytisches Denken, rechtliche Expertise undtechnisches Verständnis in meine gesamte Arbeit zu integrieren.Meine technischen Fähigkeiten erstrecken sich u.a. auf Programmierung, Datenanalyse und Software-Entwicklung, wodurch ich in der Lage bin, innovative und präzise Lösungen für komplexe Probleme zuentwickeln.Die Führungserfahrung umfasst das Management eines Teams in einer schnelllebigen Umgebung, wasmir die Fähigkeit gibt, in hohem Tempo und unter Druck zu arbeiten.Juristische Expertise gibt mir außerdem die Möglichkeit, komplexe rechtliche Fragen zu analysierenund praktische Lösungen zu entwickeln, indem ich meine technischen Fähigkeiten nutze, um Systemezu entwickeln, die den komplexen rechtlichen Anforderungen entsprechen. Darüber hinaus verfüge ichüber Erfahrung in der rechtssicheren Vertragsverhandlung und -gestaltung, sowie in der Lösung vonStreitigkeiten und der Durchführung von Rechtsrecherchen.
+Mit einer fundierten Kombination aus kaufmännischer Berufserfahrung, einem abgeschlossenen Studium der Staatswissenschaften sowie einem fortgeschrittenen Masterstudium in Informatik bringe ich sowohl analytisches Denkvermögen als auch ein ausgeprägtes Verständnis für betriebliche Abläufe und technische Prozesse mit. Besonders interessiert mich die Schnittstelle zwischen IT, Management und Beratung – ein Bereich, in dem ich meine Stärken gezielt einsetzen kann.
 
-Berufserfahrung
+Während meiner Zeit als Store Manager konnte ich nicht nur Verantwortung für ein Team übernehmen, sondern auch Organisationsprozesse optimieren und strategische Entscheidungen im Tagesgeschäft treffen. Diese Erfahrungen haben mir ein praxisnahes Verständnis für wirtschaftliche Zusammenhänge vermittelt, das ich heute mit fundierter IT-Kompetenz verbinde. In meinem Masterstudium liegt mein Fokus auf Softwareentwicklung, Datenbanken und IT-Projektmanagement. Besonders reizvoll finde ich die Arbeit an praxisnahen Lösungen und der Austausch mit unterschiedlichen Fachbereichen.
+
+Ich bringe ein breites technisches Grundverständnis mit, darunter Kenntnisse in verschiedenen Programmiersprachen (u. a. C, C++, Java, Python), Erfahrung mit Datenbanken und Tools wie Git, Jira oder Visual Studio Code. Ebenso arbeite ich selbstständig, strukturiert und gerne im Team.
+
+Ich freue mich darauf, meine Fähigkeiten in Ihrem Unternehmen einzubringen und in einem dynamischen Umfeld weiterzuentwickeln. Gerne überzeuge ich Sie in einem persönlichen Gespräch von meiner Motivation und meinem Potenzial.
+
+- Berufserfahrung -
 
 Filialleiter
 Snipes SE Deutschland
@@ -23,7 +29,7 @@ METRO Deutschland GmbH - Mühlhausen
 September 2012 bis Juli 2015
 Berufsausbildung
 
-Bildungsweg
+- Bildungsweg -
 
 Master in Informatik
 Technische Universität Chemnitz - Chemnitz
@@ -37,7 +43,7 @@ Fachhochschulreife in Wirtschaft und Verwaltung
 Ludwig-Erhard-Schule Erfurt - Erfurt
 August 2017 bis Juli 2018
 
-Kenntnisse
+- Kenntnisse -
 
 •C++
 •HTML5
@@ -64,7 +70,7 @@ Kenntnisse
 •Privatrecht
 •Vertragsrecht
 
-Sprachen
+- Sprachen -
 
 •Deutsch - Muttersprache
 •Englisch - Fließend
