@@ -852,4 +852,9 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     0%   {bottom:0px;}
     100%  {bottom:7px;}
 }
+/* CV Buttons – sauberes Mobile Layout */
+.cv-buttons a {
+  margin-bottom: 12px;
+}
+
 /*========================Thank you=================
