@@ -13,22 +13,5 @@
   "launch_handler": {
     "client_mode": "focus-existing"
   },
-  "icons": [
-    {
-      "src": "single-page-icon.jpg",
-      "sizes": "152x152",
-      "type": "image/jpg"
-    },
-    {
-      "src": "single-page-icon.jpg",
-      "sizes": "48x48",
-      "type": "image/jpg"
-    },
-    {
-      "src": "single-page-icon.jpg",
-      "sizes": "96x96",
-      "type": "image/jpg"
-    }
-  ],
   "splash_pages": null
 }
