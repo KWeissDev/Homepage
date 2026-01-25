@@ -852,30 +852,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     0%   {bottom:0px;}
     100%  {bottom:7px;}
 }
-/* CV Buttons in der Hero-Section zentrieren */
-.header-text .cv-buttons{
-  display: flex;
-  justify-content: center;
-  gap: 12px;
-  flex-wrap: wrap; /* falls zu wenig Platz */
-}
-
-.header-text .cv-buttons a{
-  display: inline-block;
-}
-
-/* Mobile: untereinander */
-@media (max-width: 768px){
-  .header-text .cv-buttons{
-    flex-direction: column;
-    align-items: center;
-  }
-  .header-text .cv-buttons a{
-    width: 280px;
-    max-width: 85vw;
-    text-align: center;
-  }
-}
 /*========================Thank you=================
+
 
 
