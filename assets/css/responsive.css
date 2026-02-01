@@ -48,6 +48,9 @@
 }/*max-width:768px*/
 
 @media screen and (max-width:767px){
+	.header-text h1,
+	.header-text h2 {font-size: 42px;}
+	.header-text p {font-size: 16px;margin: 20px 0 40px;}
 	.single-about-img {max-width: 450px;}
 	.experience-time span>i,.timeline-content span>i,.main-timeline:before {display: none;}
 	.experience-time, .timeline-content {margin-left: 0;}
@@ -70,6 +73,9 @@
 }/*max-width:640px*/
 
 @media screen and (max-width: 580px){
+	.cv-buttons {flex-direction: column;gap: 12px;}
+	.cv-buttons a {width: 100%;max-width: 240px;}
+	.cv-divider {display: none;}
 
 }/*max-width:580px*/
 
@@ -93,4 +99,3 @@
 @media screen and  (max-width: 320px){
 	
 }/*max-width:320px*/
-

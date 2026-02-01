@@ -240,6 +240,24 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4396fc;}
 }
 .header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#9f00ff;border: 1px solid #9f00ff;}
 /*.header-text-area*/
+.cv-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+.cv-buttons a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 200px;
+}
+.cv-divider {
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 1;
+}
 
 /*-------------------------------------
         4.  About
