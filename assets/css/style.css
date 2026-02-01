@@ -388,7 +388,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
         6.  Skills
 --------------------------------------*/
 .skills {
-    
+    background: #f9fbfd;
+    border-top: 1px solid #e5ebf2;
 }
 .skill-content{padding: 50px 0 80px;}
 .single-skill-content{padding-top: 100px;}
