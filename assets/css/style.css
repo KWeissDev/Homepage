@@ -392,8 +392,9 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 .skill-card-header{
     display:flex;
-    align-items:center;
+    align-items:flex-start;
     justify-content:space-between;
+    flex-wrap:wrap;
     gap:12px;
     margin-bottom:10px;
 }
@@ -412,7 +413,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     background:#eaf3ff;
     padding:6px 10px;
     border-radius:999px;
-    white-space:nowrap;
+    white-space:normal;
+    text-align:right;
 }
 .skill-summary{
     font-size:14px;
