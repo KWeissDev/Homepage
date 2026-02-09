@@ -357,6 +357,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4396fc;}
 /*.education-horizontal-timeline*/
 .education-horizontal-timeline .col-sm-4 {padding:0 2px;}
 
+.education .single-horizontal-timeline .experience-time {
+    min-height: 90px;
+}
+
 .single-horizontal-timeline .experience-time h3{text-transform: capitalize;}
 .single-horizontal-timeline .experience-time h3 span{text-transform:lowercase;}
 .single-horizontal-timeline .timeline-content h5 {margin: 15px 0;}
