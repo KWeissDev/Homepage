@@ -296,6 +296,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4396fc;}
     text-transform: capitalize;
 }
 .single-about-add-info p {font-weight:  300;border:  0;padding: 0;margin-top: 3px;}
+.about-image-column {
+    margin-top: 12px;
+}
 /*.single-about-txt*/
 
 /*.single-about-img */
