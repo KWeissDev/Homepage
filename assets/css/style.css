@@ -264,6 +264,16 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4396fc;}
 --------------------------------------*/
 .about {padding: 50px 0 100px;}
 .about-content {padding-top: 100px;}
+.about-intro {
+    max-width: 900px;
+    margin: 0 auto 45px;
+}
+.about-intro p {
+    font-size: 18px;
+    color: #3c4258;
+    line-height: 1.8;
+    margin: 0;
+}
 /*.single-about-txt*/
 .single-about-txt h3 {
     font-size:18px;
