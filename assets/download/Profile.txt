@@ -1,0 +1,31 @@
+Kevin-Rinaldo Weiß
+IT-Projektmanager mit Fokus auf Digitalisierung, Organisation und IT.
+
+Kurzprofil
+Ich verbinde technisches Verständnis mit betriebswirtschaftlicher Perspektive und strategischem Denken. Durch meine Führungserfahrung im Einzelhandel sowie mein Studium (B.A. Rechtswissenschaften & Management, M.Sc. Informatik) arbeite ich an der Schnittstelle zwischen Fachbereich und IT.
+
+Berufserfahrung
+- Filialleiter, Snipes SE Deutschland (02/2016–04/2017)
+- Stellvertretender Filialleiter, Snipes SE Deutschland (11/2015–02/2016)
+- Ausbildung zum Kaufmann im Einzelhandel, METRO Deutschland GmbH (09/2012–07/2015)
+
+Ausbildung
+- M.Sc. Informatik, Technische Universität Chemnitz (seit 09/2022)
+- B.A. Rechtswissenschaften & Management, Universität Erfurt (09/2018–08/2022)
+- Fachhochschulreife Wirtschaft/Verwaltung, Ludwig-Erhard-Schule Erfurt (08/2017–07/2018)
+
+Kenntnisse
+- IT-Projektmanagement, Prozessanalyse, Projektplanung
+- Programmierung: C, C++, Java, Python, HTML5, CSS, SQL
+- Tools: Git, Jira, Visual Studio Code
+- Soft Skills: Teamleitung, Organisation, analytische Arbeitsweise
+
+Sprachen
+- Deutsch (Muttersprache)
+- Englisch (fließend)
+- Spanisch (Grundkenntnisse)
+
+Kontakt
+- E-Mail: kevin-rinaldo.weiss@web.de
+- Website: kweissdev.github.io/Homepage
+- LinkedIn: linkedin.com/in/kevin-rinaldo-weiss
