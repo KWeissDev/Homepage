@@ -673,10 +673,19 @@
 				</button>
 			</header>
 			<div class="chat-widget-body">
-				<p>Hier kannst du deinen Chatbot einbinden (z. B. per API oder externem Widget).</p>
-				<div class="chat-placeholder" role="status">
-					Chatbot-Platzhalter: Integration bereit
+				<p>Stellen Sie gern Fragen zu meinem Werdegang – der Assistent beantwortet sie auf Grundlage meines hinterlegten Profils.</p>
+
+				<div class="chat-messages" id="chatMessages" role="log" aria-live="polite" aria-label="Chatverlauf">
+					<div class="chat-message chat-message-bot">
+						Hallo! Frag mich zum Beispiel nach Ausbildung, Skills oder Berufserfahrung.
+					</div>
 				</div>
+
+				<form class="chat-form" id="chatForm">
+					<label class="sr-only" for="chatQuestion">Frage an den Chat-Assistenten</label>
+					<input id="chatQuestion" class="chat-input" type="text" name="question" maxlength="240" placeholder="z. B. Welche Programmiersprachen beherrschst du?" autocomplete="off" required>
+					<button type="submit" class="chat-send-btn">Senden</button>
+				</form>
 			</div>
 		</section>
 	</div>
