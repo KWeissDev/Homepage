@@ -123,5 +123,23 @@ $(document).ready(function(){
             $(".header-text a").addClass("animated fadeInDown").css({'opacity':'0'});
         });
 
+	// 6. Chat widget toggle
+		var chatToggleButton = $('.chat-toggle-btn');
+		var chatPanel = $('#chatWidgetPanel');
+		var chatCloseButton = $('.chat-close-btn');
+
+		if (chatToggleButton.length && chatPanel.length) {
+			chatToggleButton.on('click', function () {
+				var isOpen = !chatPanel.prop('hidden');
+				chatPanel.prop('hidden', isOpen);
+				chatToggleButton.attr('aria-expanded', String(!isOpen));
+			});
+
+			chatCloseButton.on('click', function () {
+				chatPanel.prop('hidden', true);
+				chatToggleButton.attr('aria-expanded', 'false').focus();
+			});
+		}
+
 });	
 	
