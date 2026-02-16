@@ -1117,16 +1117,34 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 @media (max-width: 480px) {
     .chat-widget {
         right: 14px;
-        left: 14px;
+        left: auto;
         bottom: 84px;
     }
 
     .chat-toggle-btn {
-        margin-left: auto;
+        display: inline-flex;
     }
 
     .chat-widget-panel {
+        width: min(92vw, 360px);
+        max-width: min(92vw, 360px);
+        max-height: min(72vh, 560px);
+    }
+
+    .chat-widget-body {
+        padding: 14px;
+    }
+
+    .chat-messages {
+        max-height: 40vh;
+    }
+
+    .chat-form {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .chat-send-btn {
         width: 100%;
-        max-width: 100%;
     }
 }
