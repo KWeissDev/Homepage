@@ -1088,6 +1088,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 
 .chat-input {
     flex: 1;
+    min-width: 0;
     border: 1px solid #d4e2fb;
     border-radius: 8px;
     padding: 9px 10px;
@@ -1103,6 +1104,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     padding: 9px 12px;
     font-size: 13px;
     font-weight: 500;
+    white-space: nowrap;
+    flex-shrink: 0;
     cursor: pointer;
 }
 
