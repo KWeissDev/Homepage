@@ -1,31 +1,83 @@
-Kevin-Rinaldo Weiß
-IT-Projektmanager mit Fokus auf Digitalisierung, Organisation und IT.
+Persönliche Daten & Kontakt
 
-Kurzprofil
-Ich verbinde technisches Verständnis mit betriebswirtschaftlicher Perspektive und strategischem Denken. Durch meine Führungserfahrung im Einzelhandel sowie mein Studium (B.A. Rechtswissenschaften & Management, M.Sc. Informatik) arbeite ich an der Schnittstelle zwischen Fachbereich und IT.
+Name: Kevin Rinaldo Weiß 
+
+Rolle: IT-Projektmanager mit interdisziplinärem Hintergrund 
+
+LinkedIn: linkedin.com/in/kevin-rinaldo-weiss 
+
+Berufliches Profil
+
+Fokus: Digitale Transformations- und Integrationsprojekte 
+
+Kernkompetenz: Übersetzung fachlicher Anforderungen in technische Lösungen 
+
+Expertise: Koordination bereichsübergreifender Digitalisierungsprojekte sowie Analyse und Optimierung von Geschäftsprozessen 
+
+Akademischer Werdegang
+
+Master of Science (M.Sc.): Informatik für Geistes- und Sozialwissenschaftler an der Technischen Universität Chemnitz (10/2022 – 02/2026) 
+
+Abschlussnote: 1,6 
+
+Masterarbeit (1,1): Algorithmische Bestimmung der Formalität von Texten – Korrelation zwischen Formality Score und der Bewertung durch verschiedene KI-Sprachmodelle 
+
+Bachelor of Arts (B.A.): Staatswissenschaften – Rechtswissenschaft (Nebenfach Management) an der Universität Erfurt (10/2018 – 09/2022) 
+
+Abschlussnote: 2,2 
+
+Bachelorarbeit (1,7): Künstliche Intelligenz und die Auswirkungen neuer kartellrechtlicher Instrumente auf die Innovationsfreudigkeit von Unternehmen 
+
+Fachhochschulreife: Wirtschaft & Verwaltung, Ludwig-Erhard-Schule Erfurt 
 
 Berufserfahrung
-- Filialleiter, Snipes SE Deutschland (02/2016–04/2017)
-- Stellvertretender Filialleiter, Snipes SE Deutschland (11/2015–02/2016)
-- Ausbildung zum Kaufmann im Einzelhandel, METRO Deutschland GmbH (09/2012–07/2015)
 
-Ausbildung
-- M.Sc. Informatik, Technische Universität Chemnitz (seit 09/2022)
-- B.A. Rechtswissenschaften & Management, Universität Erfurt (09/2018–08/2022)
-- Fachhochschulreife Wirtschaft/Verwaltung, Ludwig-Erhard-Schule Erfurt (08/2017–07/2018)
+IT-Projektmanager (Werkstudent): Mundry Machining GmbH (04/2023 – 03/2024) 
 
-Kenntnisse
-- IT-Projektmanagement, Prozessanalyse, Projektplanung
-- Programmierung: C, C++, Java, Python, HTML5, CSS, SQL
-- Tools: Git, Jira, Visual Studio Code
-- Soft Skills: Teamleitung, Organisation, analytische Arbeitsweise
+Analyse und Integration digitaler Geschäfts- und Fertigungsprozesse zur Effizienzsteigerung 
 
-Sprachen
-- Deutsch (Muttersprache)
-- Englisch (fließend)
-- Spanisch (Grundkenntnisse)
+Planung und Umsetzung unternehmensweiter Digitalisierungsprojekte 
 
-Kontakt
-- E-Mail: kevin-rinaldo.weiss@web.de
-- Website: kweissdev.github.io/Homepage
-- LinkedIn: linkedin.com/in/kevin-rinaldo-weiss
+Koordination zwischen IT, Fachbereichen und externen Partnern 
+
+Forschungspraktikum: TU Chemnitz, Lehrstuhl für Medieninformatik (04/2024 – 03/2025) 
+
+Konzeption und Implementierung von Systemschnittstellen für relationale Datenbanken 
+
+Erhebung, Strukturierung und Analyse von Daten zur Unterstützung technischer Anforderungen 
+
+Optimierung von IT-Prozessen in Zusammenarbeit mit Fachbereichen 
+
+Projektmitarbeit "Kennnitz": TU Chemnitz / Smart-City-App (10/2024 – 03/2025) 
+
+Erstellung von Use Cases und Durchführung von Stakeholder-Analysen für digitale Bürgeranwendungen 
+
+Ableitung digitaler Anwendungsszenarien unter Einsatz KI-gestützter Methoden 
+
+Filialleiter / Verkaufsberater: Snipes SE (11/2015 – 04/2017) 
+
+Führung und Weiterentwicklung eines Teams von 10 Mitarbeitenden 
+
+Steuerung betrieblicher Abläufe und Verantwortung für wirtschaftliche Kennzahlen 
+
+Prozessoptimierung zur Effizienzsteigerung im Tagesgeschäft 
+
+Berufsausbildung: Kaufmann im Einzelhandel bei Metro Cash & Carry Deutschland 
+
+Skills & Kompetenzen
+
+IT & Entwicklung: KI, C, C++, Python, Java, Rust, MySQL, relationale Datenbanken, HTML, Git, VS-Code, Schnittstellenentwicklung 
+
+Projektmanagement: Scrum, agile Projektarbeit, Prozessanalyse, Stakeholdermanagement, Jira, Confluence 
+
+Datenanalyse: Aufbereitung und Analyse komplexer Daten für Reportingzwecke 
+
+Business & Recht: Vertragsrecht, Arbeitsrecht, IT-Recht, Organisations- und Prozessmanagement, Unternehmensführung 
+
+Sprachkenntnisse
+
+Deutsch: Muttersprache 
+
+Englisch: C1 / Verhandlungssicher 
+
+Spanisch: Grundkenntnisse
